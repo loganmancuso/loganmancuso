@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Logan Mancuso
 
-<!--
-**loganmancuso/loganmancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Infrastructure & Site Reliability Engineer  
+With over eight years of experience designing and managing high-availability infrastructure across AWS, Azure, and on-prem environments, I specialize in Infrastructure-as-Code (IaC), Kubernetes orchestration, and secure DevOps automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 I’ve Moved to GitLab
+
+I primarily develop and maintain my projects on **[GitLab](https://gitlab.com/loganmancuso)**.  
+You'll find current, production-ready codebases and contributions there.
+
+🔗 **Professional Wiki**: [loganmancuso_public.gitlab.io/proxmox-wiki](https://loganmancuso_public.gitlab.io/proxmox-wiki)  
+This is where I'm documenting and developing Terraform code for a distributed compute cluster built on Proxmox.
+
+---
+
+### 🔧 Key Skills
+- **Infrastructure as Code**: Terraform, Packer, Ansible, Chef, Puppet  
+- **Containers & Orchestration**: Kubernetes (EKS, AKS, K3s), Docker, LXC/LXD  
+- **CI/CD & DevSecOps**: GitLab Pipelines, GitHub Actions, Jenkins  
+- **Monitoring & Observability**: Prometheus, Grafana, Loki, SumoLogic, OpenTelemetry  
+- **Cloud Platforms**: AWS, Azure, and hybrid deployments  
+- **Languages**: GoLang, Python, Bash, PowerShell
+
+---
+
+### 📫 Get in Touch  
+📧 logan@mancuso.in  
+📞 (803) 470-3985  
+🌐 [GitLab Profile](https://gitlab.com/loganmancuso)  
+🌐 [Proxmox Wiki](https://loganmancuso_public.gitlab.io/proxmox-wiki)
+
+---
+
+> _"Modern infrastructure should be reproducible, observable, and secure — by design."_

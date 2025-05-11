@@ -28,7 +28,8 @@ This is where I'm documenting and developing Terraform code for a distributed co
 ### 📫 Get in Touch  
 📧 logan@mancuso.in  
 📞 (803) 470-3985  
-🌐 [GitLab Profile](https://gitlab.com/loganmancuso)  
+🌐 [GitLab Profile](https://gitlab.com/loganmancuso) 
+🌐 [Professional Profile](https://loganmancuso.gitlab.io) 
 🌐 [Proxmox Wiki](https://loganmancuso_public.gitlab.io/proxmox-wiki)
 
 ---
